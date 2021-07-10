@@ -1,9 +1,9 @@
-## g
-  # Project Title
-   g
-   [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+# Project: README Generator
+  
+   [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
   # Description
-   g
+   This software was designed to dynamically generate a README file based on user input
+
   # Table of Contents 
    * [Installation](#-Installation)
    * [Usage](#-Usage)
@@ -13,20 +13,21 @@
    * [Questions](#-Contact-Information)
     
   # Installation
-   g
+   download or clone the repository, then navigate to it in your terminal. then run "node index.js" without quotes.
 
   # Usage
-   g
+   Again, this software is used to dynamically generate a professional-quality readme for whatever project you might be working on. 
 
   # License 
-   GNU AGPLv3
+   Mozilla Public License
 
   # Contributing 
-  g
+  It's open source! Just email me.
 
   # Tests
-  g
+  N/A
 
   # Contact Information 
-  * GitHub Username: g
-  * Contact Email: lily@lily.com
+  * GitHub Username: HibiAdelei
+  * If you need to reach me for any reason, please email me.
+  * Contact Email: lilyadelame@gmail.com

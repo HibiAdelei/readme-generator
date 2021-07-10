@@ -60,7 +60,7 @@ const questions = [
             "Apache 2.0",
             "Boost Software 1.0",
             "MIT",
-            "Mozilla",
+            "Mozilla Public License",
         ],
         validate: validateInput,
     },

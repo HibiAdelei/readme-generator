@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/HibiAdelei/readme-generator#readme",
   "dependencies": {
-    "inquirer": "^8.1.1",
-    "generateMarkdown" : "utils/generateMarkdown.js"
+    "inquirer": "^8.1.1"
   }
 }

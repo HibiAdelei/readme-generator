@@ -33,6 +33,7 @@ function generateMarkdown(data) {
 
   # Contact Information 
   * GitHub Username: ${data.userName}
+  * If you need to reach me for any reason, please email me.
   * Contact Email: ${data.userEmail}
 `;
 }
